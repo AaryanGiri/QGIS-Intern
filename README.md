@@ -6,8 +6,6 @@ You can download maps according to your needs from this link: [https://www.diva-
 
 1) To add a new layer, use the "Vector Layer" option and choose a shapefile to work with.
 
-![19](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/94409c5a-bc8e-415c-9537-6a0a7af1be26)
-
 ![1](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/d51d41cf-697e-4af6-85b4-51ee43572808)
 
 ![2](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/889f6f0c-b3dc-4356-899c-caefcac8d090)
