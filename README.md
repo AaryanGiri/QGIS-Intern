@@ -1,10 +1,12 @@
-![19](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/94409c5a-bc8e-415c-9537-6a0a7af1be26)Steps:
+Steps:
 
 Download the software from the website [https://qgis.org/en/site/](URL).
 
 You can download maps according to your needs from this link: [https://www.diva-gis.org/gdata](URL).
 
 1) To add a new layer, use the "Vector Layer" option and choose a shapefile to work with.
+
+![19](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/94409c5a-bc8e-415c-9537-6a0a7af1be26)
 
 ![1](https://github.com/AaryanGiri/QGIS-Intern/assets/19299140/d51d41cf-697e-4af6-85b4-51ee43572808)
 
